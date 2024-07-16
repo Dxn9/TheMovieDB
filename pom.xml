@@ -73,14 +73,14 @@
             <id>default</id>
             <properties>
                 <api.url>https://api.themoviedb.org/3</api.url>
-                <api.token>eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkMDVlNWE5MzEwNGNmODI2NzRkOWZhODBhY2Q2MTc4ZiIsIm5iZiI6MTcyMDc2MDcwOS44NzUyNDgsInN1YiI6IjY2MmFkNzNmYzFmZmJkMDExYzZiY2FlOCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.B5CMLi833GfOAxXA6TqZOOjvGeCXJzKpMB4_aTgMwCw</api.token>
+                <api.token>eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkMDVlNWE5MzEwNGNmODI2NzRkOWZhODBhY2Q2MTc4ZiIsIm5iZiI6MTcyMTA5MzkxMi45NTg3NjUsInN1YiI6IjY2MmFkNzNmYzFmZmJkMDExYzZiY2FlOCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.X4KoMauXgjoAXxbJY6BkdX4N_vuSWiSbwhlUEDK9B2E</api.token>
             </properties>
         </profile>
         <profile>
             <id>headless</id>
             <properties>
                 <api.url>https://api.themoviedb.org/3</api.url>
-                <api.token>eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkMDVlNWE5MzEwNGNmODI2NzRkOWZhODBhY2Q2MTc4ZiIsIm5iZiI6MTcyMDc2MDcwOS44NzUyNDgsInN1YiI6IjY2MmFkNzNmYzFmZmJkMDExYzZiY2FlOCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.B5CMLi833GfOAxXA6TqZOOjvGeCXJzKpMB4_aTgMwCw</api.token>
+                <api.token>eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkMDVlNWE5MzEwNGNmODI2NzRkOWZhODBhY2Q2MTc4ZiIsIm5iZiI6MTcyMTA5MzkxMi45NTg3NjUsInN1YiI6IjY2MmFkNzNmYzFmZmJkMDExYzZiY2FlOCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.X4KoMauXgjoAXxbJY6BkdX4N_vuSWiSbwhlUEDK9B2E</api.token>
             </properties>
             <activation>
                 <activeByDefault>true</activeByDefault>
